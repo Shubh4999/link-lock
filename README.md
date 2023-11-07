@@ -48,11 +48,9 @@ particular) for more information.
 
 ## Examples
 
-- [Regular link encryption](Url) - Password: GG1@
+- [Implement Simple Captchas]([Url](https://link-lock.theanimecentreindia.tech/#eyJ2IjoiMC4wLjEiLCJlIjoicmZVOWNIZ3l6ZDJCQklyVEF6bS8rNnUxM2xGQ3UxN2wrYWVNM25QOC9nNlRJU3pnc21YUlFMQVJ0QjMrczNERG8yWFN2RXdZNUhkeEdhWTJyNmljTnpNWVNoYkdwV0xtMnVMQ3pHNVAiLCJoIjoiMSArIDEgPSA/IiwicyI6IkRxQW1iRnQ2ZUJWU2UxcjRFeXVlTkE9PSIsImkiOiJGQjA0QU5yUURvbjI0UEw5In0=))
 - [Emoji
-  support](url) - Password: avocado
-- [Share
-  torrents](Url) - Password: torrenting_is-legal!
+  support](https://link-lock.theanimecentreindia.tech/#eyJ2IjoiMC4wLjEiLCJlIjoiYWlHRnJVUC93RGhjQ3lCaEt6ZVhpSU93bjNVVllCNmpiRWtUOXNmbCthUGFuMlhFdVAvQWJUeHRKeFhCaFBMQjBBajhPSWUwMFNxSHByTzBMNmdBSWJQTWtZeDJEbnNUMmExYlRldzBXUT09IiwiaCI6IvCfpZEiLCJzIjoicDArelJaQUhKL1JRcnFSNjZJbjNMUT09IiwiaSI6ImVOVjVvOS9qK1VpT2RMUEUifQ==) - Password: avocado
 
 
 
@@ -61,9 +59,8 @@ particular) for more information.
 The code was written to be read. Please read it, especially if you don't trust
 me to build a secure encryption application. In particular:
 
-- ~~I am a college student, not a security professional – there may be best
-  practices I am not aware of.~~ I have graduated college, and now work for a
-  cybersecurity company. 
+- ~~I am a school student, not a security professional – there may be best
+  practices I am not aware of.~~
 - Once someone decrypts a link, they can share the original URL as much as they
   want. Only share encrypted links with trusted people.
 - I am not comfortable using JavaScript, and I don't have a firm grasp of the
